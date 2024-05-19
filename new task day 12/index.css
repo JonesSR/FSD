@@ -1,0 +1,17 @@
+body{
+    background-color: lightgrey;
+}
+.inside-box{
+    background-color: white;
+    padding: 50px 5px;
+    margin: 30px 5px;
+}
+.fa{
+    color: blue;
+}
+p{
+    font: size 12px;
+}
+.box{
+    padding: 60px 2px;
+}
